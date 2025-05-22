@@ -1,8 +1,11 @@
+"homepage": "https://cloneforge.io",
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
 {
   "name": "spiral-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Alfredo2738.github.io/spiral-dashboard",
+  "homepage": "https://cloneforge.io",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
